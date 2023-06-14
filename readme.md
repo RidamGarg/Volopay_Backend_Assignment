@@ -13,10 +13,17 @@
 ### Steps
 
 1. Install NPM packages
-   ```sh
-   npm i
-   ```
+
+```sh
+npm i
+```
+
 2. Create a ``.env` file, and add the mongodb url.
+
+```sh
+DB_URL = <MONGO_URL>
+```
+
 3. Seed the database
 
 ```sh
