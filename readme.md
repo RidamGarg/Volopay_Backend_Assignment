@@ -3,13 +3,6 @@
   <h3 align="center">Backend Assignment</h3>
 </div>
 
-## Endpoints
-
-- `/api/total_items`
-- `/api/nth_most_total_item`
-- `/api/percentage_of_department_wise_sold_items`
-- `/api/get_monthly_sale`
-
 ### Steps to run the project
 
 1. Install NPM packages
