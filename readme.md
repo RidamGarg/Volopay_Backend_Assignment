@@ -36,7 +36,7 @@ node importData.js
 node index.js
 ```
 
-5. Postman Link
+5. Import Postman Collection Using
 
 ```sh
 https://api.postman.com/collections/26057099-7ec199e7-cc71-40c0-a133-757b5c60ee70?access_key=PMAT-01H2WXQT348XQ7ZY54ZN1VAJMR
