@@ -6,7 +6,7 @@
 ## Endpoints
 
 - `/api/total_items`
-  `/api/nth_most_total_item`
+- `/api/nth_most_total_item`
 - `/api/percentage_of_department_wise_sold_items`
 - `/api/get_monthly_sale`
 
